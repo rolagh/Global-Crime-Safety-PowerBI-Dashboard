@@ -4,9 +4,10 @@
 This project analyzes global crime and safety indicators across countries using Power BI. The dashboard compares crime levels, safety levels, criminality scores, and resilience levels to help identify global patterns in crime and safety.
 
 ## Interactive Dashboard
+
 You can view the interactive Power BI dashboard here:
 
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU3YzQ4ZmMtMjhmMC00MmYxLTg4YzItMDcxZmYyNWIyMzViIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU3YzQ4ZmMtMjhmMC00MmYxLTg4YzItMDcxZmYyNWIyMzViIiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9&language=en-US)
 
 ## Tools Used
 - Power BI
