@@ -34,7 +34,7 @@ You can view the interactive Power BI dashboard here:
 
 ## Files Included
 - Power BI dashboard file: `.pbix`
-- Dashboard preview: `.pdf`
+- Dashboard preview: `.png`
 - Interactive dashboard link
 
 ## Dataset
